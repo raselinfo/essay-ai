@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    padding:15px;
+}
+h1{
+    font-size: 32px;
+    font-weight: bolder;
+}
+h2{
+    font-size:20px;
+    font-weight: bolder;
+}
+h4{
+    font-size:18px;
+    font-weight: bolder;
+}
+ul{
+    list-style-type: disc;
+    margin-left: 30px;
+}
+li{
+    list-style-type: decimal;
+    margin-left: 30px;
+}
+em{
+    color:brown;
+    font-weight: bolder;
+}
